@@ -19,6 +19,7 @@ MC
 6. Single strand connecting wires few
 
 Circuit Diagram:
+
 <img width="595" height="545" alt="image" src="https://github.com/user-attachments/assets/fa186dab-2ec5-428f-8f3c-c8d8ad319086" />
 
 PROCEDURE:
@@ -36,11 +37,16 @@ ii. Reverse bias condition
 Note the corresponding current reading in Ammeter.
 3. Repeat step-2 by increasing the voltage in steps of 1V, till 20V.
 4. Plot a graph taking the voltage (V) on X-axis and current (I) on Y-axis
+5. 
 Tabulation :
-<img width="538" height="403" alt="image" src="https://github.com/user-attachments/assets/a84e65bb-feef-4662-ba01-38d4302f06fe" />
+
+<img width="774" height="917" alt="image" src="https://github.com/user-attachments/assets/67d0411e-60f8-422e-9846-34e1a2a3d568" />
+
 
 Model Graph:
+
 <img width="436" height="280" alt="image" src="https://github.com/user-attachments/assets/35837165-c967-457c-aadf-efd2dfd31abc" />
 
 
 Result:
+The V-I characteristic of PN junction diode indicates that the forward current is negligible up to the knee voltage. After that it increases appreciably. The knee voltage for diode is 0.7 volt. In reverse bias, the constant current of μA order flows through the diode and it increases gradually to maximum at large reverse voltage.
